@@ -24,6 +24,7 @@ be viewed at `nbviewer
     media
     solvers
     constraints_objectives
+    dfba
     pymatbridge
     faq
     _autogen/modules
